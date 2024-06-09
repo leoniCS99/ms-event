@@ -4,7 +4,7 @@
 A aplicação `ms-event` é um microserviço baseado em Spring Boot projetado para gerenciar instituições e seus eventos associados. Esta aplicação fornece APIs RESTful para operações CRUD em instituições e inclui uma tarefa agendada para atualizar o status dos eventos periodicamente.
 
 ## Funcionalidades
-- **Operações CRUD**: Criar, ler, atualizar e deletar instituições.
+- **Operações CRUD**
 - **Atualização de Status de Eventos**: Tarefa agendada para atualizar o status dos eventos com base nas datas de início e término.
 
 ## Tecnologias
@@ -14,7 +14,7 @@ A aplicação `ms-event` é um microserviço baseado em Spring Boot projetado pa
 - Spring Validation
 - Banco de Dados H2
 - Lombok
-- MapStruct (para mapeamento de DTOs para entidades)
+- MapStruct
 
 ## Requisitos
 - Java 11
