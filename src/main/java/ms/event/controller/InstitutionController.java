@@ -12,6 +12,7 @@ import javax.validation.Valid;
 import java.util.List;
 
 @RestController
+@CrossOrigin(origins = "*")
 @RequestMapping("api/v1/institutions")
 public class InstitutionController {
     private final InstitutionService institutionService;

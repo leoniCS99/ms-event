@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 
 @RestController
+@CrossOrigin(origins = "*")
 @RequestMapping("api/v1/events")
 public class EventController {
     private final EventService eventService;
