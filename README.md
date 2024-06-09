@@ -15,6 +15,7 @@ A aplicação `ms-event` é um microserviço baseado em Spring Boot projetado pa
 - Banco de Dados H2
 - Lombok
 - MapStruct
+- Swagger
 
 ## Requisitos
 - Java 11
