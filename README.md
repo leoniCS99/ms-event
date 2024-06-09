@@ -52,7 +52,7 @@ A aplicação estará acessível em `http://localhost:8080`. Abaixo estão os en
   ```json
   {
     "name": "Nome da Instituição",
-    "description": "Descrição da instituição"
+    "description": "CONFEDERATION"
   }
 
 #### Criar Evento
