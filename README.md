@@ -64,4 +64,5 @@ A aplicação estará acessível em `http://localhost:8080`. Abaixo estão os en
     "description": "Descrição do evento",
     "startDate": "2023-06-01",
     "endDate": "2023-06-10"
+    "idInstitution": 1  
   }  
